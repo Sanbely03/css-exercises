@@ -1,15 +1,19 @@
-p{
-    background-color: rgb(255, 63, 92);
-    color:black;
+#first-element,#fifth-element,#third-element{
+    background-color: rgb(252, 147, 162);
     font-family: verdana, sans-serif;
+
+}
+#third-element{
     font-size: 24px;
 }
-div{
+div.second-element{
     font-size: 36px;
     color: blue;
 }
+
 .fourth-element{
-    background-color: rgb(169, 247, 169);
+    background-color: rgb(118, 245, 118);
     font-size: 24px;
     font-weight: bold;
+    color: black;
 }
