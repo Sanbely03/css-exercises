@@ -1,17 +1,17 @@
-#first-element,#fifth-element,#third-element{
+.first-element,.third-element,.fifth-element{
     background-color: rgb(252, 147, 162);
     font-family: verdana, sans-serif;
 
 }
-#third-element{
+.third-element{
     font-size: 24px;
 }
-div.second-element{
+#second-element{
     font-size: 36px;
     color: blue;
 }
 
-.fourth-element{
+#fourth-element{
     background-color: rgb(118, 245, 118);
     font-size: 24px;
     font-weight: bold;
