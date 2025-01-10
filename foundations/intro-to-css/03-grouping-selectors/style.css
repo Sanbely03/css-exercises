@@ -1,0 +1,13 @@
+.botton-fate{
+    background-color:black;
+    color: white;
+
+}
+.button-fade{
+    background-color: yellow;
+
+}
+.button-fade.button-fate{
+font-family: Helvetica, 'Times New Roman',sans-serif;
+font-size: 28px;
+}
