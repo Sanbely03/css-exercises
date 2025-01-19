@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/foundations/intro-to-css/05-descendant-combinator/index.html"
+    "livePreview.defaultPreviewPath": "/foundations/intro-to-css/05-descendant-combinator/index.html",
+    "liveServer.settings.port": 5501
 }
